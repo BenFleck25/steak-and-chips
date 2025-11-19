@@ -1,0 +1,21 @@
+.featured-scroll {
+    background-color: #F7F1DE;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+}
+
+.featured-scroll img {
+    padding: 10px;
+}
+
+.popular {
+    background-color: #F7F1DE;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+}
+
+.popular img {
+    padding: 10px;
+}
