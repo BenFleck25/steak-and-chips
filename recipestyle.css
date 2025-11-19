@@ -1,0 +1,117 @@
+body {
+    background-color:#C6D4C2;
+    font-family: "Elms Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    line-height:1.6;
+    color:#000000;
+    padding: 0px;
+    font-size: 20px;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #C4A484;
+    height: 46px;
+    position: relative;
+    align-items: center;
+  
+}
+header input {
+    position:absolute;
+    left: 50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+    height: 26px;
+    border-radius: 10px;
+    background-color: #F7F1DE;
+    font-family: "Montserrat", sans-serif;
+}
+#Title_Section h1{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding:20px;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 300;
+}
+.titlespacer{
+    height:10px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+
+.time {
+    font-size: 10px;
+    padding:5px;
+    border: 3px;
+    height:40px;
+    width: 97px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: #F7F1DE;
+}
+
+
+.bio {
+    font-size: 10px;
+    padding:5px;
+    width:206px;
+    height:60px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: #F7F1DE;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+}
+.card {
+    background-color: #C6D4C2;
+    border: 0px;
+    align-items: center;
+    padding: 15px;
+    
+}
+#Nutrbutton {
+    height: 15px;
+    position: relative;
+}
+#Nutrbutton button{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height:30px;
+    width:80px;
+    border-radius:10px;
+    font-size: 10px;
+    background-color: #C4A484;
+}
+
+.card h3{
+    font-size: 16px;
+    font-family: "DM Sans", sans-serif;
+}
+
+#recipe .container {
+border: 3px black;
+padding-left:  0;
+padding-right: 0;
+}
+
+
+.card li {
+    font-size: 8px;
+    font-family: "Montserrat", sans-serif;
+    
+
+}
+
+.card {
+    border-right:2px;
+    padding:10px;
+    margin: 0;
+    
+}
